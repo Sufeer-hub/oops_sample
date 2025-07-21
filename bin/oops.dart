@@ -5,7 +5,7 @@ class vehicle{
 
 
   void start (){
-    print("car is starting");
+    print("car started");
   }
 }
 

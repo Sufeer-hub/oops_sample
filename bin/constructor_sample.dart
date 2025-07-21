@@ -58,7 +58,7 @@ class Student {
 }
 
 void main(){
-  Student sufeer =Student(name: "sufeer", age: 78, grade: "A", isPassed: true);
+  Student sufeer =Student(name: "shamil", age: 78, grade: "A", isPassed: true);
   Student sadil =Student(name: "sadil", age: 34, grade: "B");
 sufeer.displayInfo();
 sufeer.checkPassStatus();
